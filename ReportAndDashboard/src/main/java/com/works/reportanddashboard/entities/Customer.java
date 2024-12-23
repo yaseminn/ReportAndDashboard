@@ -1,7 +1,6 @@
 package com.works.reportanddashboard.entities;
 
 import jakarta.persistence.*;
-import lombok.Data;
 
 
 @Entity
